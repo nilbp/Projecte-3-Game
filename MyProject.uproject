@@ -7,6 +7,16 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "VaRestPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "MySQL",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4a497572d1014beab577112d5a37c813"
 		}
 	]
 }
